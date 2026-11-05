@@ -4,6 +4,7 @@ Hi there, I'm Armel D'amour! 👋
 
 
 About Me 🚀
+
 I'm a passionate Web Developer with experience in HTML, CSS, JAVASCRIPT. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: PYTHON, MACHINE LEARNING 
