@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there, I'm Armel D'amour! 👋
 
-<!--
-**Armel-damour/Armel-damour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](<img width="1856" height="2464" alt="FrontendEngineer" src="https://github.com/user-attachments/assets/601d417e-a4a3-4d40-ab8f-76ce35c8704d" />
+)
 
-Here are some ideas to get you started:
+About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Web Developer with experience in HTML, CSS, JAVASCRIPT. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: PYTHON, MACHINE LEARNING 
+
+My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
+
+
